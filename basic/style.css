@@ -1,0 +1,8 @@
+body {
+    background-image: linear-gradient(90deg,rgb(133,207,207), rgb(23,152,116));
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
